@@ -56,7 +56,7 @@
 
 ## 📝 我的博客
 
-➡️ [ByronGu's blog](blog.kirakira.top)
+➡️ [ByronGu's blog](https://blog.kirakira.top)
 
 
 
