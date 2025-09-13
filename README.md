@@ -1,4 +1,4 @@
-# 👋 你好，我是 [ByronGu]
+# 👋 你好，我是 ByronGu
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FBD26A&width=435&lines=%E3%81%84%E3%81%A4%E3%81%8B%E8%8A%B1%E6%9D%9F%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8F%E3%82%8C%E3%82%88)](https://git.io/typing-svg)
 
